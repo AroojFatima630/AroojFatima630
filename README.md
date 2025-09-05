@@ -1,66 +1,11 @@
-# Hello Everyone 👋  
 
-⏳ I am:  
-- 💻 DevOps Engineer  
-- ☁️ Cloud Engineer  
+<h1 align="center">Hi 👋, I'm Arooj Fatima</h1>
+<h3 align="center">A passionate DevOps Engineer&Cloud Engineer</h3>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🚀 About Me  
-I'm **Arooj Fatima**, a passionate **DevOps & Cloud Engineer**.  
-I love working on automation, infrastructure as code, and modern CI/CD pipelines.  
-Always eager to learn and explore new tools, and love sharing knowledge.  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
----
-
-## 🛠️ Tech Stack  
-
-### DevOps Tools  
-Jenkins | GitHub Actions | GitLab CI/CD | ArgoCD | CircleCI | AWS CodeBuild/CodeDeploy  
-
-### Containerization & Orchestration  
-Docker | Kubernetes (EKS, AKS, GKE) | Docker Swarm | Amazon ECS | Helm  
-
-### Infrastructure as Code  
-Terraform | Ansible | Chef | CloudFormation  
-
-### Programming & Scripting  
-Python | Bash | YAML  
-
-### Monitoring & Logging  
-Prometheus | Grafana | ELK Stack | CloudWatch | Azure Monitoring  
-
-### Databases  
-PostgreSQL | MySQL | Redis  
-
-### Version Control  
-Git | GitHub | GitLab | Bitbucket  
-
-### Artifact Management  
-JFrog Artifactory | Nexus | Docker Hub  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark)  
-
----
-
-## 📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark)  
-
----
-
-## 🌍 Connect With Me  
-📩 Email: **your-email@example.com**  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 Twitter: [Your Twitter](https://twitter.com/yourprofile)  
-
----
