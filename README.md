@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&vCenter=true&width=500&lines=Linux+System+Administrator)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.png" alt="Woman working on laptop with coffee" width="600"/>
+</p>
+
+
 
 
 ## 💫 About Me
