@@ -1,9 +1,5 @@
-<!-- Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=👉+Linux+System+Administrator" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&vCenter=true&width=500&lines=Linux+System+Administrator)](https://git.io/typing-svg)
 
----
 
 ## 💫 About Me
 👋 Hi, I’m **Arooj Fatima**  
