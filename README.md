@@ -21,6 +21,7 @@ Passionate **Linux System Administrator** with strong expertise in **Cloud & Aut
 - **CI/CD Basics**: GitHub Actions, GitLab, Jenkins  
 
 ---
+<img src="https://share.google/images/esXcFnUdJy7LqEcB2"
 
 ## ⚡ What I Do
 - Manage and secure Linux-based servers  
